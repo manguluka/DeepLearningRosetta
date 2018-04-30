@@ -1,3 +1,4 @@
+# Based on PyTorch 0.4.0 version of https://github.com/L1aoXingyu/pytorch-beginner/blob/master/01-Linear%20Regression/Linear_Regression.py
 import torch
 from torch import nn, optim
 
